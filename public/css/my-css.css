@@ -1,0 +1,23 @@
+.search-box.col-md-4.col-sm-12 {
+    float: right;
+    margin-top: 15px;
+}
+
+.image-product img{
+	width: 200px;
+    height: 150px;
+}
+
+.products-info .image-product img{
+	width: 250px;
+    height: 200px;
+}
+
+.product-info .image-product img{
+	width: 100%;
+	height: auto;
+}
+
+.products-info{
+    margin-bottom: 25px;
+}
